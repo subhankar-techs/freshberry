@@ -26,17 +26,6 @@ export default function Navbar() {
               />
             </div>
           </div>
-          <div className="flex flex-col md:flex-row items-center space-y-2 md:space-y-0 md:space-x-6 mt-2 md:mt-0">
-            <div className="flex items-center space-x-2">
-              <span className="text-gray-600 text-sm">Account Login</span>
-            </div>
-            <div className="flex items-center space-x-2">
-              <span className="text-gray-600 text-sm">3 Items Wishlist</span>
-            </div>
-            <div className="flex items-center space-x-2">
-              <span className="text-gray-600 text-sm">4 Items Cart</span>
-            </div>
-          </div>
         </div>
       </div>
       
@@ -67,9 +56,6 @@ export default function Navbar() {
               <a href="#" className="text-gray-700 hover:text-blue-600">Pages</a>
               <a href="#" className="text-gray-700 hover:text-blue-600">Blog</a>
               <a href="#" className="text-blue-600">🏷️ Offers</a>
-            </div>
-            <div className="text-gray-600 mt-2 md:mt-0">
-              📍 Surat
             </div>
           </div>
         </div>
